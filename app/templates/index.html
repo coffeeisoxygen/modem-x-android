@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ title }}</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', path='/css/styles.css') }}"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Welcome to Modem-X-Android</h1>
+      </header>
+      <main>
+        <p>Otomatisasi Android APK dan Modem Pool</p>
+        <p>
+          A FastAPI application for controlling and monitoring modems and
+          android devices controlling
+        </p>
+
+        <div class="api-links">
+          <h2>API Links</h2>
+          <ul>
+            <li><a href="/docs">API Documentation (Swagger UI)</a></li>
+            <li><a href="/redoc">Alternative Documentation (ReDoc)</a></li>
+          </ul>
+        </div>
+
+        <div class="modem-table">
+          <h2>Modem List</h2>
+          <table>
+            <thead>
+              <tr>
+                <th>Port</th>
+                <th>ICCID</th>
+                <th>Number</th>
+                <th>Status</th>
+                <th>responses</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for modem in modems %}
+              <tr>
+                <td>{{ modem.port }}</td>
+                <td>{{ modem.iccid }}</td>
+                <td>{{ modem.number }}</td>
+                <td>{{ modem.status }}</td>
+                <td>{{ modem.responses }}</td>
+                <td>
+                  <button onclick="refreshModem('{{ modem.port }}')">
+                    Refresh
+                  </button>
+                  <button onclick="checkStatus('{{ modem.port }}')">
+                    Check Status
+                  </button>
+                  <button onclick="pairDevice('{{ modem.port }}')">Pair</button>
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </main>
+      <footer>
+        <p>&copy; 2025 Modem-X-Android</p>
+      </footer>
+    </div>
+
+    <script>
+      function refreshModem(port) {
+        fetch(`/api/modems/${port}/refresh`, {
+          method: "POST",
+        })
+          .then((response) => response.json())
+          .then((data) => {
+            alert(data.message);
+            window.location.reload();
+          })
+          .catch((error) => {
+            alert("Error refreshing modem: " + error);
+          });
+      }
+
+      function checkStatus(port) {
+        fetch(`/api/modems/${port}/status`)
+          .then((response) => response.json())
+          .then((data) => {
+            const details = JSON.stringify(data, null, 2);
+            alert("Modem Status:\n" + details);
+          })
+          .catch((error) => {
+            alert("Error checking status: " + error);
+          });
+      }
+
+      function pairDevice(port) {
+        fetch(`/api/modems/${port}/pair`, {
+          method: "POST",
+        })
+          .then((response) => response.json())
+          .then((data) => {
+            alert(data.message);
+          })
+          .catch((error) => {
+            alert("Error pairing device: " + error);
+          });
+      }
+    </script>
+  </body>
+</html>

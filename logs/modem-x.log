@@ -1,0 +1,488 @@
+2025-03-29 06:56:23,778 - modem.pool - INFO - Detecting modems...
+2025-03-29 06:56:23,794 - modem.pool - DEBUG - Found port: COM6 - USB Serial Device (COM6)
+2025-03-29 06:56:23,794 - modem.pool - DEBUG - Found port: COM8 - USB Serial Device (COM8)
+2025-03-29 06:56:23,802 - modem.pool - DEBUG - Found port: COM11 - USB Serial Device (COM11)
+2025-03-29 06:56:23,802 - modem.pool - DEBUG - Found port: COM12 - USB Serial Device (COM12)
+2025-03-29 06:56:23,802 - modem.pool - DEBUG - Found port: COM5 - USB Serial Device (COM5)
+2025-03-29 06:56:23,802 - modem.pool - DEBUG - Found port: COM7 - USB Serial Device (COM7)
+2025-03-29 06:56:23,802 - modem.pool - DEBUG - Found port: COM17 - USB Serial Device (COM17)
+2025-03-29 06:56:23,802 - modem.pool - DEBUG - Found port: COM10 - USB Serial Device (COM10)
+2025-03-29 06:56:23,804 - modem.pool - DEBUG - Found port: COM18 - USB Serial Device (COM18)
+2025-03-29 06:56:23,804 - modem.pool - DEBUG - Found port: COM15 - USB Serial Device (COM15)
+2025-03-29 06:56:23,804 - modem.pool - DEBUG - Found port: COM3 - Standard Serial over Bluetooth link (COM3)
+2025-03-29 06:56:23,804 - modem.pool - DEBUG - Found port: COM4 - Standard Serial over Bluetooth link (COM4)
+2025-03-29 06:56:23,804 - modem.pool - DEBUG - Found port: COM19 - USB Serial Device (COM19)
+2025-03-29 06:56:23,804 - modem.pool - DEBUG - Found port: COM20 - USB Serial Device (COM20)
+2025-03-29 06:56:23,804 - modem.pool - DEBUG - Found port: COM13 - USB Serial Device (COM13)
+2025-03-29 06:56:23,804 - modem.pool - DEBUG - Found port: COM16 - USB Serial Device (COM16)
+2025-03-29 06:56:23,804 - modem.pool - DEBUG - Found port: COM9 - USB Serial Device (COM9)
+2025-03-29 06:56:23,804 - modem.pool - DEBUG - Found port: COM14 - USB Serial Device (COM14)
+2025-03-29 06:56:23,804 - modem.pool - INFO - Detected 16 modem(s)
+2025-03-29 06:56:23,804 - modem.COM6 - INFO - Connected to COM6
+2025-03-29 06:56:23,811 - modem.COM8 - INFO - Connected to COM8
+2025-03-29 06:56:23,811 - modem.COM11 - INFO - Connected to COM11
+2025-03-29 06:56:23,811 - modem.COM12 - INFO - Connected to COM12
+2025-03-29 06:56:23,819 - modem.COM5 - INFO - Connected to COM5
+2025-03-29 06:56:23,819 - modem.COM7 - INFO - Connected to COM7
+2025-03-29 06:56:23,819 - modem.COM17 - INFO - Connected to COM17
+2025-03-29 06:56:23,828 - modem.COM10 - INFO - Connected to COM10
+2025-03-29 06:56:23,828 - modem.COM18 - INFO - Connected to COM18
+2025-03-29 06:56:23,836 - modem.COM15 - INFO - Connected to COM15
+2025-03-29 06:56:23,836 - modem.COM19 - INFO - Connected to COM19
+2025-03-29 06:56:23,845 - modem.COM20 - INFO - Connected to COM20
+2025-03-29 06:56:23,853 - modem.COM13 - INFO - Connected to COM13
+2025-03-29 06:56:23,861 - modem.COM16 - INFO - Connected to COM16
+2025-03-29 06:56:23,861 - modem.COM9 - INFO - Connected to COM9
+2025-03-29 06:56:23,870 - modem.COM14 - INFO - Connected to COM14
+2025-03-29 06:56:28,400 - modem.COM6 - INFO - Disconnected from COM6
+2025-03-29 06:56:28,410 - modem.COM8 - INFO - Disconnected from COM8
+2025-03-29 06:56:28,423 - modem.COM11 - INFO - Disconnected from COM11
+2025-03-29 06:56:28,430 - modem.COM12 - INFO - Disconnected from COM12
+2025-03-29 06:56:28,440 - modem.COM5 - INFO - Disconnected from COM5
+2025-03-29 06:56:28,442 - modem.COM7 - INFO - Disconnected from COM7
+2025-03-29 06:56:28,451 - modem.COM17 - INFO - Disconnected from COM17
+2025-03-29 06:56:28,460 - modem.COM10 - INFO - Disconnected from COM10
+2025-03-29 06:56:28,466 - modem.COM18 - INFO - Disconnected from COM18
+2025-03-29 06:56:28,470 - modem.COM15 - INFO - Disconnected from COM15
+2025-03-29 06:56:28,482 - modem.COM19 - INFO - Disconnected from COM19
+2025-03-29 06:56:28,498 - modem.COM20 - INFO - Disconnected from COM20
+2025-03-29 06:56:28,510 - modem.COM13 - INFO - Disconnected from COM13
+2025-03-29 06:56:28,516 - modem.COM16 - INFO - Disconnected from COM16
+2025-03-29 06:56:28,520 - modem.COM9 - INFO - Disconnected from COM9
+2025-03-29 06:56:28,526 - modem.COM14 - INFO - Disconnected from COM14
+2025-03-29 06:56:41,300 - modem.pool - INFO - Detecting modems...
+2025-03-29 06:56:41,319 - modem.pool - DEBUG - Found port: COM6 - USB Serial Device (COM6)
+2025-03-29 06:56:41,321 - modem.pool - DEBUG - Found port: COM8 - USB Serial Device (COM8)
+2025-03-29 06:56:41,321 - modem.pool - DEBUG - Found port: COM11 - USB Serial Device (COM11)
+2025-03-29 06:56:41,323 - modem.pool - DEBUG - Found port: COM12 - USB Serial Device (COM12)
+2025-03-29 06:56:41,323 - modem.pool - DEBUG - Found port: COM5 - USB Serial Device (COM5)
+2025-03-29 06:56:41,323 - modem.pool - DEBUG - Found port: COM7 - USB Serial Device (COM7)
+2025-03-29 06:56:41,325 - modem.pool - DEBUG - Found port: COM17 - USB Serial Device (COM17)
+2025-03-29 06:56:41,328 - modem.pool - DEBUG - Found port: COM10 - USB Serial Device (COM10)
+2025-03-29 06:56:41,329 - modem.pool - DEBUG - Found port: COM18 - USB Serial Device (COM18)
+2025-03-29 06:56:41,329 - modem.pool - DEBUG - Found port: COM15 - USB Serial Device (COM15)
+2025-03-29 06:56:41,330 - modem.pool - DEBUG - Found port: COM3 - Standard Serial over Bluetooth link (COM3)
+2025-03-29 06:56:41,331 - modem.pool - DEBUG - Found port: COM4 - Standard Serial over Bluetooth link (COM4)
+2025-03-29 06:56:41,331 - modem.pool - DEBUG - Found port: COM19 - USB Serial Device (COM19)
+2025-03-29 06:56:41,331 - modem.pool - DEBUG - Found port: COM20 - USB Serial Device (COM20)
+2025-03-29 06:56:41,331 - modem.pool - DEBUG - Found port: COM13 - USB Serial Device (COM13)
+2025-03-29 06:56:41,331 - modem.pool - DEBUG - Found port: COM16 - USB Serial Device (COM16)
+2025-03-29 06:56:41,331 - modem.pool - DEBUG - Found port: COM9 - USB Serial Device (COM9)
+2025-03-29 06:56:41,333 - modem.pool - DEBUG - Found port: COM14 - USB Serial Device (COM14)
+2025-03-29 06:56:41,333 - modem.pool - INFO - Detected 16 modem(s)
+2025-03-29 06:56:41,338 - modem.COM6 - INFO - Connected to COM6
+2025-03-29 06:56:41,344 - modem.COM8 - INFO - Connected to COM8
+2025-03-29 06:56:41,347 - modem.COM11 - INFO - Connected to COM11
+2025-03-29 06:56:41,353 - modem.COM12 - INFO - Connected to COM12
+2025-03-29 06:56:41,375 - modem.COM5 - INFO - Connected to COM5
+2025-03-29 06:56:41,375 - modem.COM7 - INFO - Connected to COM7
+2025-03-29 06:56:41,390 - modem.COM17 - INFO - Connected to COM17
+2025-03-29 06:56:41,393 - modem.COM10 - INFO - Connected to COM10
+2025-03-29 06:56:41,393 - modem.COM18 - INFO - Connected to COM18
+2025-03-29 06:56:41,403 - modem.COM15 - INFO - Connected to COM15
+2025-03-29 06:56:41,409 - modem.COM19 - INFO - Connected to COM19
+2025-03-29 06:56:41,419 - modem.COM20 - INFO - Connected to COM20
+2025-03-29 06:56:41,431 - modem.COM13 - INFO - Connected to COM13
+2025-03-29 06:56:41,443 - modem.COM16 - INFO - Connected to COM16
+2025-03-29 06:56:41,453 - modem.COM9 - INFO - Connected to COM9
+2025-03-29 06:56:41,470 - modem.COM14 - INFO - Connected to COM14
+2025-03-29 06:56:51,699 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:56:53,727 - modem.COM6 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 06:56:53,727 - modem.COM6 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:56:57,735 - modem.COM6 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:56:57,735 - modem.COM8 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:56:59,745 - modem.COM8 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704913942"
+
+OK
+
+2025-03-29 06:56:59,745 - modem.COM8 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:57:03,756 - modem.COM8 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:57:03,760 - modem.COM11 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:57:05,770 - modem.COM11 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484373"
+
+OK
+
+2025-03-29 06:57:05,779 - modem.COM11 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:57:09,789 - modem.COM11 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:57:09,790 - modem.COM12 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:57:11,801 - modem.COM12 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704905435"
+
+OK
+
+2025-03-29 06:57:11,801 - modem.COM12 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:57:15,810 - modem.COM12 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:57:15,810 - modem.COM5 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:57:17,825 - modem.COM5 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704458682"
+
+OK
+
+2025-03-29 06:57:17,825 - modem.COM5 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:57:21,838 - modem.COM5 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:57:21,839 - modem.COM7 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:57:23,841 - modem.COM7 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909577"
+
+OK
+
+2025-03-29 06:57:23,841 - modem.COM7 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:57:27,848 - modem.COM7 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:57:27,848 - modem.COM17 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:57:29,852 - modem.COM17 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484399"
+
+OK
+
+2025-03-29 06:57:29,852 - modem.COM17 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:57:33,860 - modem.COM17 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:57:33,861 - modem.COM10 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:57:35,871 - modem.COM10 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704483946"
+
+OK
+
+2025-03-29 06:57:35,871 - modem.COM10 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:57:39,882 - modem.COM10 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:57:39,883 - modem.COM18 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:57:41,887 - modem.COM18 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484118"
+
+OK
+
+2025-03-29 06:57:41,887 - modem.COM18 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:57:45,903 - modem.COM18 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:57:45,904 - modem.COM15 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:57:47,909 - modem.COM15 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484266"
+
+OK
+
+2025-03-29 06:57:47,909 - modem.COM15 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:57:51,920 - modem.COM15 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:57:51,921 - modem.COM19 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:57:53,933 - modem.COM19 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909650"
+
+OK
+
+2025-03-29 06:57:53,939 - modem.COM19 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:57:57,948 - modem.COM19 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:57:57,948 - modem.COM20 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:57:59,961 - modem.COM20 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914247"
+
+OK
+
+2025-03-29 06:57:59,961 - modem.COM20 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:58:03,972 - modem.COM20 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:58:04,017 - modem.COM13 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:58:06,031 - modem.COM13 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704450192"
+
+OK
+
+2025-03-29 06:58:06,033 - modem.COM13 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:58:10,047 - modem.COM13 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:58:10,047 - modem.COM16 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:58:12,063 - modem.COM16 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704908934"
+
+OK
+
+2025-03-29 06:58:12,063 - modem.COM16 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:58:16,076 - modem.COM16 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:58:16,076 - modem.COM9 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:58:18,084 - modem.COM9 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704905823"
+
+OK
+
+2025-03-29 06:58:18,084 - modem.COM9 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:58:22,101 - modem.COM9 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:58:22,101 - modem.COM14 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:58:24,112 - modem.COM14 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704456330"
+
+OK
+
+2025-03-29 06:58:24,117 - modem.COM14 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:58:28,132 - modem.COM14 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:58:36,667 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:58:38,675 - modem.COM6 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 06:58:38,677 - modem.COM6 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:58:42,882 - modem.COM6 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:58:42,882 - modem.COM8 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:58:44,943 - modem.COM8 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704913942"
+
+OK
+
+2025-03-29 06:58:44,947 - modem.COM8 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:58:48,965 - modem.COM8 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:58:48,970 - modem.COM11 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:58:51,127 - modem.COM11 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484373"
+
+OK
+
+2025-03-29 06:58:51,131 - modem.COM11 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:58:55,147 - modem.COM11 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:58:55,147 - modem.COM12 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:58:57,156 - modem.COM12 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704905435"
+
+OK
+
+2025-03-29 06:58:57,156 - modem.COM12 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:59:01,164 - modem.COM12 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:59:01,164 - modem.COM5 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:59:03,174 - modem.COM5 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704458682"
+
+OK
+
+2025-03-29 06:59:03,175 - modem.COM5 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:59:07,184 - modem.COM5 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:59:07,187 - modem.COM7 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:59:09,191 - modem.COM7 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909577"
+
+OK
+
+2025-03-29 06:59:09,197 - modem.COM7 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:59:13,208 - modem.COM7 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:59:13,208 - modem.COM17 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:59:15,218 - modem.COM17 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484399"
+
+OK
+
+2025-03-29 06:59:15,220 - modem.COM17 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:59:19,233 - modem.COM17 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:59:19,235 - modem.COM10 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:59:21,245 - modem.COM10 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704483946"
+
+OK
+
+2025-03-29 06:59:21,245 - modem.COM10 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:59:25,262 - modem.COM10 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:59:25,262 - modem.COM18 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:59:27,283 - modem.COM18 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484118"
+
+OK
+
+2025-03-29 06:59:27,283 - modem.COM18 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:59:31,301 - modem.COM18 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:59:31,301 - modem.COM15 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:59:33,421 - modem.COM15 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484266"
+
+OK
+
+2025-03-29 06:59:33,421 - modem.COM15 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:59:37,442 - modem.COM15 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:59:37,442 - modem.COM19 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:59:39,448 - modem.COM19 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909650"
+
+OK
+
+2025-03-29 06:59:39,448 - modem.COM19 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:59:43,462 - modem.COM19 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:59:43,463 - modem.COM20 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:59:45,468 - modem.COM20 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914247"
+
+OK
+
+2025-03-29 06:59:45,470 - modem.COM20 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:59:49,477 - modem.COM20 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:59:49,477 - modem.COM13 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:59:51,481 - modem.COM13 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704450192"
+
+OK
+
+2025-03-29 06:59:51,481 - modem.COM13 - DEBUG - Sending command: AT+CNUM
+2025-03-29 06:59:55,492 - modem.COM13 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 06:59:55,494 - modem.COM16 - DEBUG - Sending command: AT+CCID
+2025-03-29 06:59:57,496 - modem.COM16 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704908934"
+
+OK
+
+2025-03-29 06:59:57,498 - modem.COM16 - DEBUG - Sending command: AT+CNUM
+2025-03-29 07:00:01,503 - modem.COM16 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 07:00:01,503 - modem.COM9 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:00:03,524 - modem.COM9 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704905823"
+
+OK
+
+2025-03-29 07:00:03,526 - modem.COM9 - DEBUG - Sending command: AT+CNUM
+2025-03-29 07:00:07,543 - modem.COM9 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 07:00:07,545 - modem.COM14 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:00:09,547 - modem.COM14 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704456330"
+
+OK
+
+2025-03-29 07:00:09,547 - modem.COM14 - DEBUG - Sending command: AT+CNUM
+2025-03-29 07:00:13,556 - modem.COM14 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 07:00:13,682 - modem.COM6 - INFO - Disconnected from COM6
+2025-03-29 07:00:13,713 - modem.COM8 - INFO - Disconnected from COM8
+2025-03-29 07:00:13,741 - modem.COM11 - INFO - Disconnected from COM11
+2025-03-29 07:00:13,747 - modem.COM12 - INFO - Disconnected from COM12
+2025-03-29 07:00:13,753 - modem.COM5 - INFO - Disconnected from COM5
+2025-03-29 07:00:13,760 - modem.COM7 - INFO - Disconnected from COM7
+2025-03-29 07:00:13,765 - modem.COM17 - INFO - Disconnected from COM17
+2025-03-29 07:00:13,770 - modem.COM10 - INFO - Disconnected from COM10
+2025-03-29 07:00:13,775 - modem.COM18 - INFO - Disconnected from COM18
+2025-03-29 07:00:13,777 - modem.COM15 - INFO - Disconnected from COM15
+2025-03-29 07:00:13,789 - modem.COM19 - INFO - Disconnected from COM19
+2025-03-29 07:00:13,792 - modem.COM20 - INFO - Disconnected from COM20
+2025-03-29 07:00:13,800 - modem.COM13 - INFO - Disconnected from COM13
+2025-03-29 07:00:13,806 - modem.COM16 - INFO - Disconnected from COM16
+2025-03-29 07:00:13,810 - modem.COM9 - INFO - Disconnected from COM9
+2025-03-29 07:00:13,817 - modem.COM14 - INFO - Disconnected from COM14
