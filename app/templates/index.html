@@ -49,7 +49,7 @@
                 <td>{{ modem.iccid }}</td>
                 <td>{{ modem.number }}</td>
                 <td>{{ modem.status }}</td>
-                <td>{{ modem.responses }}</td>
+                <td class="response-cell">{{ modem.responses|safe }}</td>
                 <td>
                   <button onclick="refreshModem('{{ modem.port }}')">
                     Refresh

@@ -11,6 +11,8 @@ class SerialPort:
         self.port = port
         self.connection = None
         self.logger = logging.getLogger(f"modem.{port}")
+        self.response_history = []  # Add this line to store response history
+        self.max_history = 10  # Maximum number of responses to keep
 
     def connect(self):
         try:
@@ -35,9 +37,20 @@ class SerialPort:
             time.sleep(timeout)
             response = self.connection.read(1024).decode()
             self.logger.debug(f"Raw response: {response}")
+
+            # Store the command and response in history
+            history_entry = f"CMD: {command}\nRESP: {response.strip()}"
+            self.response_history.append(history_entry)
+
+            # Keep only the last max_history entries
+            if len(self.response_history) > self.max_history:
+                self.response_history = self.response_history[-self.max_history :]
+
             return response
         except Exception as e:
-            self.logger.error(f"Error sending command to {self.port}: {e}")
+            error_msg = f"Error sending command to {self.port}: {e}"
+            self.logger.error(error_msg)
+            self.response_history.append(f"CMD: {command}\nERROR: {str(e)}")
             return None
 
     def parse_response(self, response, pattern=None):
@@ -91,12 +104,15 @@ class SerialPort:
         return self.parse_response(response)
 
     def get_number(self):
-        # USSD commands can take longer to execute
-        response = self.send_command("AT+CNUM", timeout=3)
-        if not response or "ERROR" in response:
-            # Try alternate command for some modems
-            response = self.send_command('AT+CUSD=1,"*185#",15', timeout=5)
+        # Directly use the USSD command to retrieve the number
+        response = self.send_command('AT+CUSD=1,"*185#",15', timeout=5)
         return self.parse_response(response)
+
+    def get_response_history(self):
+        """Get the history of AT command responses."""
+        if not self.response_history:
+            return "No command history"
+        return "\n".join(self.response_history)
 
 
 class ModemPool:
