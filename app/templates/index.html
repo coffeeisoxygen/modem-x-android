@@ -29,6 +29,13 @@
           </ul>
         </div>
 
+        <div class="bulk-actions">
+          <h2>Bulk Actions</h2>
+          <button onclick="checkAllICCID()">Check All ICCID</button>
+          <button onclick="checkAllNumbers()">Check All Numbers</button>
+          <button onclick="refreshAllModems()">Refresh All Modems</button>
+        </div>
+
         <div class="modem-table">
           <h2>Modem List</h2>
           <table>
@@ -55,7 +62,13 @@
                     Refresh
                   </button>
                   <button onclick="checkStatus('{{ modem.port }}')">
-                    Check Status
+                    Status
+                  </button>
+                  <button onclick="checkICCID('{{ modem.port }}')">
+                    ICCID
+                  </button>
+                  <button onclick="checkNumber('{{ modem.port }}')">
+                    Number
                   </button>
                   <button onclick="pairDevice('{{ modem.port }}')">Pair</button>
                 </td>
@@ -108,6 +121,89 @@
           .catch((error) => {
             alert("Error pairing device: " + error);
           });
+      }
+
+      function checkAllICCID() {
+        fetch("/api/modems/check-all-iccid", {
+          method: "POST",
+        })
+          .then((response) => response.json())
+          .then((data) => {
+            // Update the table with ICCID data
+            for (const [port, iccid] of Object.entries(data.iccids)) {
+              updateTableCell(port, "iccid", iccid);
+            }
+          })
+          .catch((error) => {
+            alert("Error checking all ICCIDs: " + error);
+          });
+      }
+
+      function checkAllNumbers() {
+        fetch("/api/modems/check-all-numbers", {
+          method: "POST",
+        })
+          .then((response) => response.json())
+          .then((data) => {
+            // Update the table with number data
+            for (const [port, number] of Object.entries(data.numbers)) {
+              updateTableCell(port, "number", number);
+            }
+          })
+          .catch((error) => {
+            alert("Error checking all numbers: " + error);
+          });
+      }
+
+      function refreshAllModems() {
+        fetch("/api/modems/refresh", {
+          method: "POST",
+        })
+          .then((response) => response.json())
+          .then((data) => {
+            alert(data.message);
+            window.location.reload();
+          })
+          .catch((error) => {
+            alert("Error refreshing all modems: " + error);
+          });
+      }
+
+      function checkICCID(port) {
+        fetch(`/api/modems/${port}/iccid`)
+          .then((response) => response.json())
+          .then((data) => {
+            updateTableCell(port, "iccid", data.iccid);
+          })
+          .catch((error) => {
+            alert("Error checking ICCID: " + error);
+          });
+      }
+
+      function checkNumber(port) {
+        fetch(`/api/modems/${port}/number`)
+          .then((response) => response.json())
+          .then((data) => {
+            updateTableCell(port, "number", data.number);
+          })
+          .catch((error) => {
+            alert("Error checking number: " + error);
+          });
+      }
+
+      // Helper function to update a specific cell in the table
+      function updateTableCell(port, field, value) {
+        const rows = document.querySelectorAll("table tbody tr");
+        for (const row of rows) {
+          const portCell = row.querySelector("td:first-child");
+          if (portCell && portCell.textContent.trim() === port) {
+            const fieldIndex = { iccid: 1, number: 2 }[field];
+            if (fieldIndex !== undefined) {
+              row.querySelectorAll("td")[fieldIndex].textContent = value;
+            }
+            break;
+          }
+        }
       }
     </script>
   </body>

@@ -938,3 +938,1996 @@ OK
 2025-03-29 07:21:45,590 - modem.COM16 - INFO - Connected to COM16
 2025-03-29 07:21:45,594 - modem.COM9 - INFO - Connected to COM9
 2025-03-29 07:21:45,604 - modem.COM14 - INFO - Connected to COM14
+2025-03-29 07:22:00,550 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:22:02,571 - modem.COM6 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 07:22:02,579 - modem.COM6 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:22:08,594 - modem.COM6 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464843, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:22:08,697 - modem.COM8 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:22:10,705 - modem.COM8 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704913942"
+
+OK
+
+2025-03-29 07:22:10,705 - modem.COM8 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:22:16,709 - modem.COM8 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464809, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:22:16,711 - modem.COM11 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:22:18,731 - modem.COM11 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484373"
+
+OK
+
+2025-03-29 07:22:18,731 - modem.COM11 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:22:24,741 - modem.COM11 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416077, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:22:24,743 - modem.COM12 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:22:26,751 - modem.COM12 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704905435"
+
+OK
+
+2025-03-29 07:22:26,751 - modem.COM12 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:22:32,768 - modem.COM12 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720463870, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:22:32,770 - modem.COM5 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:22:34,779 - modem.COM5 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704458682"
+
+OK
+
+2025-03-29 07:22:34,789 - modem.COM5 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:22:40,792 - modem.COM5 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720413239, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:22:40,792 - modem.COM7 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:22:42,806 - modem.COM7 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909577"
+
+OK
+
+2025-03-29 07:22:42,809 - modem.COM7 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:22:48,815 - modem.COM7 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464318, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:22:48,816 - modem.COM17 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:22:50,818 - modem.COM17 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484399"
+
+OK
+
+2025-03-29 07:22:50,818 - modem.COM17 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:22:56,823 - modem.COM17 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416079, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:22:56,824 - modem.COM10 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:22:58,908 - modem.COM10 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704483946"
+
+OK
+
+2025-03-29 07:22:58,909 - modem.COM10 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:23:04,923 - modem.COM10 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416032, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:23:04,923 - modem.COM18 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:23:06,967 - modem.COM18 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484118"
+
+OK
+
+2025-03-29 07:23:06,968 - modem.COM18 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:23:12,977 - modem.COM18 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416049, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:23:12,977 - modem.COM15 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:23:14,989 - modem.COM15 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484266"
+
+OK
+
+2025-03-29 07:23:14,990 - modem.COM15 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:23:21,007 - modem.COM15 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416065, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:23:21,007 - modem.COM19 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:23:23,023 - modem.COM19 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909650"
+
+OK
+
+2025-03-29 07:23:23,023 - modem.COM19 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:23:29,029 - modem.COM19 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 4
+
+ERROR
+
+2025-03-29 07:23:29,030 - modem.COM20 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:23:31,035 - modem.COM20 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914247"
+
+OK
+
+2025-03-29 07:23:31,035 - modem.COM20 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:23:37,044 - modem.COM20 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464840, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:23:37,047 - modem.COM13 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:23:39,063 - modem.COM13 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704450192"
+
+OK
+
+2025-03-29 07:23:39,067 - modem.COM13 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:23:45,074 - modem.COM13 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720412312, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:23:45,075 - modem.COM16 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:23:47,082 - modem.COM16 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704908934"
+
+OK
+
+2025-03-29 07:23:47,098 - modem.COM16 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:23:53,114 - modem.COM16 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 4
+
+ERROR
+
+2025-03-29 07:23:53,114 - modem.COM9 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:23:55,129 - modem.COM9 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704905823"
+
+OK
+
+2025-03-29 07:23:55,129 - modem.COM9 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:24:01,133 - modem.COM9 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720463912, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:24:01,136 - modem.COM14 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:24:03,151 - modem.COM14 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704456330"
+
+OK
+
+2025-03-29 07:24:03,151 - modem.COM14 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:24:09,169 - modem.COM14 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720412980, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:24:09,185 - modem.COM6 - DEBUG - Sending command: AT+CSQ
+2025-03-29 07:24:11,198 - modem.COM6 - DEBUG - Raw response: 
++CUSD: 4
+AT+CSQ
+
++CSQ: 20,0
+
+OK
+
+2025-03-29 07:24:11,198 - modem.COM6 - DEBUG - Sending command: AT+GSN
+2025-03-29 07:24:13,207 - modem.COM6 - DEBUG - Raw response: AT+GSN
+012345678912345
+
+OK
+
+
+2025-03-29 07:24:13,207 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:24:15,215 - modem.COM6 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 07:24:15,216 - modem.COM6 - INFO - Disconnected from COM6
+2025-03-29 07:24:15,238 - modem.COM6 - INFO - Connected to COM6
+2025-03-29 07:24:30,021 - modem.COM6 - INFO - Disconnected from COM6
+2025-03-29 07:24:30,036 - modem.COM6 - INFO - Connected to COM6
+2025-03-29 07:24:31,585 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:24:33,600 - modem.COM6 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 07:24:33,602 - modem.COM6 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:24:39,606 - modem.COM6 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464843, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:24:39,610 - modem.COM8 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:24:41,613 - modem.COM8 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704913942"
+
+OK
+
+2025-03-29 07:24:41,616 - modem.COM8 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:24:47,628 - modem.COM8 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464809, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:24:47,628 - modem.COM11 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:24:49,642 - modem.COM11 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704484373"
+
+OK
+
+2025-03-29 07:24:49,642 - modem.COM11 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:24:55,646 - modem.COM11 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416077, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:24:55,646 - modem.COM12 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:24:57,657 - modem.COM12 - DEBUG - Raw response: 
++CUSD: 4
+
++MREG: 0,0
+
++MREG: 0,1
+AT+CCID
+
++CCID: "89620100001704905435"
+
+OK
+
+2025-03-29 07:24:57,657 - modem.COM12 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:25:03,674 - modem.COM12 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720463870, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:25:03,675 - modem.COM5 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:25:05,683 - modem.COM5 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704458682"
+
+OK
+
+2025-03-29 07:25:05,684 - modem.COM5 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:25:11,691 - modem.COM5 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720413239, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:25:11,691 - modem.COM7 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:25:13,706 - modem.COM7 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704909577"
+
+OK
+
+2025-03-29 07:25:13,707 - modem.COM7 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:25:19,717 - modem.COM7 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464318, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:25:19,717 - modem.COM17 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:25:21,733 - modem.COM17 - DEBUG - Raw response: 
++CUSD: 4
+
++MREG: 0,0
+
++MREG: 0,1
+AT+CCID
+
++CCID: "89620100001704484399"
+
+OK
+
+2025-03-29 07:25:21,734 - modem.COM17 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:25:27,753 - modem.COM17 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416079, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:25:27,753 - modem.COM10 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:25:29,762 - modem.COM10 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704483946"
+
+OK
+
+2025-03-29 07:25:29,763 - modem.COM10 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:25:35,769 - modem.COM10 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416032, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:25:35,769 - modem.COM18 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:25:37,773 - modem.COM18 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704484118"
+
+OK
+
+2025-03-29 07:25:37,774 - modem.COM18 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:25:43,788 - modem.COM18 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416049, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:25:43,789 - modem.COM15 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:25:45,809 - modem.COM15 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704484266"
+
+OK
+
+2025-03-29 07:25:45,809 - modem.COM15 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:25:51,815 - modem.COM15 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416065, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:25:51,816 - modem.COM19 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:25:53,818 - modem.COM19 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909650"
+
+OK
+
+2025-03-29 07:25:53,819 - modem.COM19 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:25:59,864 - modem.COM19 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 4
+
+ERROR
+
+2025-03-29 07:25:59,867 - modem.COM20 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:26:01,875 - modem.COM20 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704914247"
+
+OK
+
+2025-03-29 07:26:01,875 - modem.COM20 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:26:07,889 - modem.COM20 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464840, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:26:07,890 - modem.COM13 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:26:09,898 - modem.COM13 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704450192"
+
+OK
+
+2025-03-29 07:26:09,898 - modem.COM13 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:26:15,907 - modem.COM13 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720412312, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:26:15,907 - modem.COM16 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:26:17,919 - modem.COM16 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704908934"
+
+OK
+
+2025-03-29 07:26:17,919 - modem.COM16 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:26:23,930 - modem.COM16 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 4
+
+ERROR
+
+2025-03-29 07:26:23,930 - modem.COM9 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:26:25,936 - modem.COM9 - DEBUG - Raw response: 
++CUSD: 4
+
++MREG: 0,0
+
++MREG: 0,1
+AT+CCID
+
++CCID: "89620100001704905823"
+
+OK
+
+2025-03-29 07:26:25,936 - modem.COM9 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:26:31,946 - modem.COM9 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720463912, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:26:31,949 - modem.COM14 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:26:33,955 - modem.COM14 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704456330"
+
+OK
+
+2025-03-29 07:26:33,956 - modem.COM14 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:26:39,957 - modem.COM14 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720412980, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:27:36,320 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:27:38,328 - modem.COM6 - DEBUG - Raw response: 
++CUSD: 4
+
++MREG: 0,0
+
++MREG: 0,1
+AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 07:27:38,328 - modem.COM6 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:27:44,336 - modem.COM6 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464843, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:27:44,337 - modem.COM8 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:27:46,350 - modem.COM8 - DEBUG - Raw response: 
++CUSD: 4
+
++MREG: 0,0
+
++MREG: 0,1
+AT+CCID
+
++CCID: "89620100001704913942"
+
+OK
+
+2025-03-29 07:27:46,351 - modem.COM8 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:27:52,359 - modem.COM8 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464809, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:27:52,359 - modem.COM11 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:27:54,369 - modem.COM11 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704484373"
+
+OK
+
+2025-03-29 07:27:54,370 - modem.COM11 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:28:00,380 - modem.COM11 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416077, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:28:00,382 - modem.COM12 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:28:02,393 - modem.COM12 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704905435"
+
+OK
+
+2025-03-29 07:28:02,394 - modem.COM12 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:28:08,396 - modem.COM12 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720463870, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:28:08,396 - modem.COM5 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:28:10,408 - modem.COM5 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704458682"
+
+OK
+
+2025-03-29 07:28:10,409 - modem.COM5 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:28:16,418 - modem.COM5 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720413239, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:28:16,419 - modem.COM7 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:28:18,434 - modem.COM7 - DEBUG - Raw response: 
++CUSD: 4
+
++MREG: 0,0
+
++MREG: 0,1
+AT+CCID
+
++CCID: "89620100001704909577"
+
+OK
+
+2025-03-29 07:28:18,435 - modem.COM7 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:28:24,439 - modem.COM7 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464318, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:28:24,441 - modem.COM17 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:28:26,449 - modem.COM17 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704484399"
+
+OK
+
+2025-03-29 07:28:26,451 - modem.COM17 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:28:32,466 - modem.COM17 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416079, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:28:32,469 - modem.COM10 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:28:34,486 - modem.COM10 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704483946"
+
+OK
+
+2025-03-29 07:28:34,490 - modem.COM10 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:28:40,505 - modem.COM10 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416032, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:28:40,505 - modem.COM18 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:28:42,515 - modem.COM18 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704484118"
+
+OK
+
+2025-03-29 07:28:42,516 - modem.COM18 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:28:48,529 - modem.COM18 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416049, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:28:48,530 - modem.COM15 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:28:50,543 - modem.COM15 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704484266"
+
+OK
+
+2025-03-29 07:28:50,543 - modem.COM15 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:28:56,552 - modem.COM15 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416065, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:28:56,553 - modem.COM19 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:28:58,557 - modem.COM19 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909650"
+
+OK
+
+2025-03-29 07:28:58,557 - modem.COM19 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:29:04,559 - modem.COM19 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 4
+
+ERROR
+
+2025-03-29 07:29:04,560 - modem.COM20 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:29:06,577 - modem.COM20 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704914247"
+
+OK
+
+2025-03-29 07:29:06,577 - modem.COM20 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:29:12,594 - modem.COM20 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464840, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:29:12,595 - modem.COM13 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:29:14,608 - modem.COM13 - DEBUG - Raw response: 
++CUSD: 4
+
++MREG: 0,0
+
++MREG: 0,1
+AT+CCID
+
++CCID: "89620100001704450192"
+
+OK
+
+2025-03-29 07:29:14,608 - modem.COM13 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:29:20,625 - modem.COM13 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720412312, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:29:20,625 - modem.COM16 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:29:22,632 - modem.COM16 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704908934"
+
+OK
+
+2025-03-29 07:29:22,744 - modem.COM16 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:29:28,752 - modem.COM16 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 4
+
+ERROR
+
+2025-03-29 07:29:28,752 - modem.COM9 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:29:30,769 - modem.COM9 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704905823"
+
+OK
+
+2025-03-29 07:29:30,769 - modem.COM9 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:29:36,775 - modem.COM9 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720463912, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:29:36,775 - modem.COM14 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:29:38,781 - modem.COM14 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704456330"
+
+OK
+
+2025-03-29 07:29:38,782 - modem.COM14 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:29:44,791 - modem.COM14 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720412980, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:29:44,801 - modem.COM11 - INFO - Disconnected from COM11
+2025-03-29 07:29:44,815 - modem.COM11 - INFO - Connected to COM11
+2025-03-29 07:29:44,823 - modem.COM6 - INFO - Disconnected from COM6
+2025-03-29 07:29:44,828 - modem.COM6 - INFO - Connected to COM6
+2025-03-29 07:29:44,839 - modem.COM8 - INFO - Disconnected from COM8
+2025-03-29 07:29:44,849 - modem.COM8 - INFO - Connected to COM8
+2025-03-29 07:29:44,905 - modem.COM6 - INFO - Disconnected from COM6
+2025-03-29 07:29:44,925 - modem.COM8 - INFO - Disconnected from COM8
+2025-03-29 07:29:44,933 - modem.COM11 - INFO - Disconnected from COM11
+2025-03-29 07:29:44,938 - modem.COM12 - INFO - Disconnected from COM12
+2025-03-29 07:29:44,943 - modem.COM5 - INFO - Disconnected from COM5
+2025-03-29 07:29:44,949 - modem.COM7 - INFO - Disconnected from COM7
+2025-03-29 07:29:44,954 - modem.COM17 - INFO - Disconnected from COM17
+2025-03-29 07:29:44,964 - modem.COM10 - INFO - Disconnected from COM10
+2025-03-29 07:29:44,970 - modem.COM18 - INFO - Disconnected from COM18
+2025-03-29 07:29:44,976 - modem.COM15 - INFO - Disconnected from COM15
+2025-03-29 07:29:44,982 - modem.COM19 - INFO - Disconnected from COM19
+2025-03-29 07:29:44,989 - modem.COM20 - INFO - Disconnected from COM20
+2025-03-29 07:29:44,994 - modem.COM13 - INFO - Disconnected from COM13
+2025-03-29 07:29:44,998 - modem.COM16 - INFO - Disconnected from COM16
+2025-03-29 07:29:44,998 - modem.COM9 - INFO - Disconnected from COM9
+2025-03-29 07:29:45,008 - modem.COM14 - INFO - Disconnected from COM14
+2025-03-29 07:29:45,740 - modem.pool - INFO - Detecting modems...
+2025-03-29 07:29:45,755 - modem.pool - DEBUG - Found port: COM6 - USB Serial Device (COM6)
+2025-03-29 07:29:45,755 - modem.pool - DEBUG - Found port: COM8 - USB Serial Device (COM8)
+2025-03-29 07:29:45,760 - modem.pool - DEBUG - Found port: COM11 - USB Serial Device (COM11)
+2025-03-29 07:29:45,760 - modem.pool - DEBUG - Found port: COM12 - USB Serial Device (COM12)
+2025-03-29 07:29:45,762 - modem.pool - DEBUG - Found port: COM5 - USB Serial Device (COM5)
+2025-03-29 07:29:45,762 - modem.pool - DEBUG - Found port: COM7 - USB Serial Device (COM7)
+2025-03-29 07:29:45,762 - modem.pool - DEBUG - Found port: COM17 - USB Serial Device (COM17)
+2025-03-29 07:29:45,762 - modem.pool - DEBUG - Found port: COM10 - USB Serial Device (COM10)
+2025-03-29 07:29:45,762 - modem.pool - DEBUG - Found port: COM18 - USB Serial Device (COM18)
+2025-03-29 07:29:45,762 - modem.pool - DEBUG - Found port: COM15 - USB Serial Device (COM15)
+2025-03-29 07:29:45,764 - modem.pool - DEBUG - Found port: COM3 - Standard Serial over Bluetooth link (COM3)
+2025-03-29 07:29:45,764 - modem.pool - DEBUG - Found port: COM4 - Standard Serial over Bluetooth link (COM4)
+2025-03-29 07:29:45,764 - modem.pool - DEBUG - Found port: COM19 - USB Serial Device (COM19)
+2025-03-29 07:29:45,764 - modem.pool - DEBUG - Found port: COM20 - USB Serial Device (COM20)
+2025-03-29 07:29:45,764 - modem.pool - DEBUG - Found port: COM13 - USB Serial Device (COM13)
+2025-03-29 07:29:45,764 - modem.pool - DEBUG - Found port: COM16 - USB Serial Device (COM16)
+2025-03-29 07:29:45,764 - modem.pool - DEBUG - Found port: COM9 - USB Serial Device (COM9)
+2025-03-29 07:29:45,764 - modem.pool - DEBUG - Found port: COM14 - USB Serial Device (COM14)
+2025-03-29 07:29:45,764 - modem.pool - INFO - Detected 16 modem(s)
+2025-03-29 07:29:45,769 - modem.COM6 - INFO - Connected to COM6
+2025-03-29 07:29:45,774 - modem.COM8 - INFO - Connected to COM8
+2025-03-29 07:29:45,776 - modem.COM11 - INFO - Connected to COM11
+2025-03-29 07:29:45,776 - modem.COM12 - INFO - Connected to COM12
+2025-03-29 07:29:45,776 - modem.COM5 - INFO - Connected to COM5
+2025-03-29 07:29:45,787 - modem.COM7 - INFO - Connected to COM7
+2025-03-29 07:29:45,787 - modem.COM17 - INFO - Connected to COM17
+2025-03-29 07:29:45,793 - modem.COM10 - INFO - Connected to COM10
+2025-03-29 07:29:45,801 - modem.COM18 - INFO - Connected to COM18
+2025-03-29 07:29:45,804 - modem.COM15 - INFO - Connected to COM15
+2025-03-29 07:29:45,811 - modem.COM19 - INFO - Connected to COM19
+2025-03-29 07:29:45,817 - modem.COM20 - INFO - Connected to COM20
+2025-03-29 07:29:45,822 - modem.COM13 - INFO - Connected to COM13
+2025-03-29 07:29:45,825 - modem.COM16 - INFO - Connected to COM16
+2025-03-29 07:29:45,839 - modem.COM9 - INFO - Connected to COM9
+2025-03-29 07:29:45,842 - modem.COM14 - INFO - Connected to COM14
+2025-03-29 07:33:40,632 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:33:42,984 - modem.COM6 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 07:33:42,984 - modem.COM6 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:33:48,994 - modem.COM6 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464843, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:33:48,994 - modem.COM8 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:33:51,000 - modem.COM8 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704913942"
+
+OK
+
+2025-03-29 07:33:51,000 - modem.COM8 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:33:57,011 - modem.COM8 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464809, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:33:57,011 - modem.COM11 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:33:59,019 - modem.COM11 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484373"
+
+OK
+
+2025-03-29 07:33:59,019 - modem.COM11 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:34:05,031 - modem.COM11 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416077, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:34:05,031 - modem.COM12 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:34:07,036 - modem.COM12 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704905435"
+
+OK
+
+2025-03-29 07:34:07,036 - modem.COM12 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:34:13,042 - modem.COM12 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720463870, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:34:13,044 - modem.COM5 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:34:15,054 - modem.COM5 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704458682"
+
+OK
+
+2025-03-29 07:34:15,056 - modem.COM5 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:34:21,067 - modem.COM5 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720413239, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:34:21,067 - modem.COM7 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:34:23,080 - modem.COM7 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909577"
+
+OK
+
+2025-03-29 07:34:23,080 - modem.COM7 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:34:29,096 - modem.COM7 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464318, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:34:29,096 - modem.COM17 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:34:31,114 - modem.COM17 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484399"
+
+OK
+
+2025-03-29 07:34:31,114 - modem.COM17 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:34:37,129 - modem.COM17 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416079, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:34:37,130 - modem.COM10 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:34:39,143 - modem.COM10 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704483946"
+
+OK
+
+2025-03-29 07:34:39,143 - modem.COM10 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:34:45,163 - modem.COM10 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416032, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:34:45,165 - modem.COM18 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:34:47,173 - modem.COM18 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484118"
+
+OK
+
+2025-03-29 07:34:47,173 - modem.COM18 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:34:53,182 - modem.COM18 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416049, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:34:53,183 - modem.COM15 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:34:55,186 - modem.COM15 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484266"
+
+OK
+
+2025-03-29 07:34:55,186 - modem.COM15 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:35:01,196 - modem.COM15 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720416065, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:35:01,196 - modem.COM19 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:35:03,203 - modem.COM19 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909650"
+
+OK
+
+2025-03-29 07:35:03,204 - modem.COM19 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:40:55,847 - modem.pool - INFO - Detecting modems...
+2025-03-29 07:40:55,863 - modem.pool - DEBUG - Found port: COM6 - USB Serial Device (COM6)
+2025-03-29 07:40:55,863 - modem.pool - DEBUG - Found port: COM8 - USB Serial Device (COM8)
+2025-03-29 07:40:55,863 - modem.pool - DEBUG - Found port: COM11 - USB Serial Device (COM11)
+2025-03-29 07:40:55,863 - modem.pool - DEBUG - Found port: COM12 - USB Serial Device (COM12)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM5 - USB Serial Device (COM5)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM7 - USB Serial Device (COM7)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM17 - USB Serial Device (COM17)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM10 - USB Serial Device (COM10)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM18 - USB Serial Device (COM18)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM15 - USB Serial Device (COM15)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM3 - Standard Serial over Bluetooth link (COM3)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM4 - Standard Serial over Bluetooth link (COM4)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM19 - USB Serial Device (COM19)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM20 - USB Serial Device (COM20)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM13 - USB Serial Device (COM13)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM16 - USB Serial Device (COM16)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM9 - USB Serial Device (COM9)
+2025-03-29 07:40:55,881 - modem.pool - DEBUG - Found port: COM14 - USB Serial Device (COM14)
+2025-03-29 07:40:55,881 - modem.pool - INFO - Detected 16 modem(s)
+2025-03-29 07:40:55,890 - modem.COM6 - INFO - Connected to COM6
+2025-03-29 07:40:55,896 - modem.COM8 - INFO - Connected to COM8
+2025-03-29 07:40:55,898 - modem.COM11 - INFO - Connected to COM11
+2025-03-29 07:40:55,902 - modem.COM12 - INFO - Connected to COM12
+2025-03-29 07:40:55,902 - modem.COM5 - INFO - Connected to COM5
+2025-03-29 07:40:55,943 - modem.COM7 - INFO - Connected to COM7
+2025-03-29 07:40:56,031 - modem.COM17 - INFO - Connected to COM17
+2025-03-29 07:40:56,064 - modem.COM10 - INFO - Connected to COM10
+2025-03-29 07:40:56,064 - modem.COM18 - INFO - Connected to COM18
+2025-03-29 07:40:56,073 - modem.COM15 - INFO - Connected to COM15
+2025-03-29 07:40:56,089 - modem.COM19 - INFO - Connected to COM19
+2025-03-29 07:40:56,089 - modem.COM20 - INFO - Connected to COM20
+2025-03-29 07:40:56,102 - modem.COM13 - INFO - Connected to COM13
+2025-03-29 07:40:56,105 - modem.COM16 - INFO - Connected to COM16
+2025-03-29 07:40:56,115 - modem.COM9 - INFO - Connected to COM9
+2025-03-29 07:40:56,123 - modem.COM14 - INFO - Connected to COM14
+2025-03-29 07:41:11,678 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:41:13,689 - modem.COM6 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 07:41:16,754 - modem.COM6 - DEBUG - Sending command: AT+CNUM
+2025-03-29 07:41:19,764 - modem.COM6 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 07:41:19,764 - modem.COM6 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:41:25,771 - modem.COM6 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464843, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:41:39,651 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:41:41,664 - modem.COM6 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 07:41:41,664 - modem.COM8 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:41:43,679 - modem.COM8 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704913942"
+
+OK
+
+2025-03-29 07:41:43,680 - modem.COM11 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:41:45,697 - modem.COM11 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484373"
+
+OK
+
+2025-03-29 07:41:45,697 - modem.COM12 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:41:47,710 - modem.COM12 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704905435"
+
+OK
+
+2025-03-29 07:41:47,736 - modem.COM5 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:41:49,739 - modem.COM5 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704458682"
+
+OK
+
+2025-03-29 07:41:49,739 - modem.COM7 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:41:51,745 - modem.COM7 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909577"
+
+OK
+
+2025-03-29 07:41:51,747 - modem.COM17 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:41:53,761 - modem.COM17 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484399"
+
+OK
+
+2025-03-29 07:41:53,767 - modem.COM10 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:41:55,778 - modem.COM10 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704483946"
+
+OK
+
+2025-03-29 07:41:55,778 - modem.COM18 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:41:57,790 - modem.COM18 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484118"
+
+OK
+
+2025-03-29 07:41:57,793 - modem.COM15 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:41:59,800 - modem.COM15 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484266"
+
+OK
+
+2025-03-29 07:41:59,800 - modem.COM19 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:42:01,814 - modem.COM19 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909650"
+
+OK
+
+2025-03-29 07:42:01,814 - modem.COM20 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:42:03,826 - modem.COM20 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914247"
+
+OK
+
+2025-03-29 07:42:03,826 - modem.COM13 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:42:05,842 - modem.COM13 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704450192"
+
+OK
+
+2025-03-29 07:42:05,844 - modem.COM16 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:42:07,853 - modem.COM16 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704908934"
+
+OK
+
+2025-03-29 07:42:07,854 - modem.COM9 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:42:09,873 - modem.COM9 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704905823"
+
+OK
+
+2025-03-29 07:42:09,873 - modem.COM14 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:42:11,887 - modem.COM14 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704456330"
+
+OK
+
+2025-03-29 07:42:42,022 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:42:44,026 - modem.COM6 - DEBUG - Raw response: 
++CUSD: 4
+AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 07:43:02,428 - modem.pool - INFO - Refreshing modem pool
+2025-03-29 07:43:02,432 - modem.COM6 - INFO - Disconnected from COM6
+2025-03-29 07:43:02,442 - modem.COM8 - INFO - Disconnected from COM8
+2025-03-29 07:43:02,442 - modem.COM11 - INFO - Disconnected from COM11
+2025-03-29 07:43:02,448 - modem.COM12 - INFO - Disconnected from COM12
+2025-03-29 07:43:02,456 - modem.COM5 - INFO - Disconnected from COM5
+2025-03-29 07:43:02,456 - modem.COM7 - INFO - Disconnected from COM7
+2025-03-29 07:43:02,468 - modem.COM17 - INFO - Disconnected from COM17
+2025-03-29 07:43:02,468 - modem.COM10 - INFO - Disconnected from COM10
+2025-03-29 07:43:02,468 - modem.COM18 - INFO - Disconnected from COM18
+2025-03-29 07:43:02,483 - modem.COM15 - INFO - Disconnected from COM15
+2025-03-29 07:43:02,490 - modem.COM19 - INFO - Disconnected from COM19
+2025-03-29 07:43:02,500 - modem.COM20 - INFO - Disconnected from COM20
+2025-03-29 07:43:02,507 - modem.COM13 - INFO - Disconnected from COM13
+2025-03-29 07:43:02,507 - modem.COM16 - INFO - Disconnected from COM16
+2025-03-29 07:43:02,516 - modem.COM9 - INFO - Disconnected from COM9
+2025-03-29 07:43:02,516 - modem.COM14 - INFO - Disconnected from COM14
+2025-03-29 07:43:02,516 - modem.pool - INFO - Detecting modems...
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM6 - USB Serial Device (COM6)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM8 - USB Serial Device (COM8)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM11 - USB Serial Device (COM11)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM12 - USB Serial Device (COM12)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM5 - USB Serial Device (COM5)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM7 - USB Serial Device (COM7)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM17 - USB Serial Device (COM17)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM10 - USB Serial Device (COM10)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM18 - USB Serial Device (COM18)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM15 - USB Serial Device (COM15)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM3 - Standard Serial over Bluetooth link (COM3)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM4 - Standard Serial over Bluetooth link (COM4)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM19 - USB Serial Device (COM19)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM20 - USB Serial Device (COM20)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM13 - USB Serial Device (COM13)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM16 - USB Serial Device (COM16)
+2025-03-29 07:43:02,547 - modem.pool - DEBUG - Found port: COM9 - USB Serial Device (COM9)
+2025-03-29 07:43:02,562 - modem.pool - DEBUG - Found port: COM14 - USB Serial Device (COM14)
+2025-03-29 07:43:02,562 - modem.pool - INFO - Detected 16 modem(s)
+2025-03-29 07:44:01,937 - modem.pool - INFO - Detecting modems...
+2025-03-29 07:44:01,957 - modem.pool - DEBUG - Found port: COM6 - USB Serial Device (COM6)
+2025-03-29 07:44:01,957 - modem.pool - DEBUG - Found port: COM8 - USB Serial Device (COM8)
+2025-03-29 07:44:01,957 - modem.pool - DEBUG - Found port: COM11 - USB Serial Device (COM11)
+2025-03-29 07:44:01,959 - modem.pool - DEBUG - Found port: COM12 - USB Serial Device (COM12)
+2025-03-29 07:44:01,959 - modem.pool - DEBUG - Found port: COM5 - USB Serial Device (COM5)
+2025-03-29 07:44:01,959 - modem.pool - DEBUG - Found port: COM7 - USB Serial Device (COM7)
+2025-03-29 07:44:01,959 - modem.pool - DEBUG - Found port: COM17 - USB Serial Device (COM17)
+2025-03-29 07:44:01,959 - modem.pool - DEBUG - Found port: COM10 - USB Serial Device (COM10)
+2025-03-29 07:44:01,959 - modem.pool - DEBUG - Found port: COM18 - USB Serial Device (COM18)
+2025-03-29 07:44:01,961 - modem.pool - DEBUG - Found port: COM15 - USB Serial Device (COM15)
+2025-03-29 07:44:01,961 - modem.pool - DEBUG - Found port: COM3 - Standard Serial over Bluetooth link (COM3)
+2025-03-29 07:44:01,961 - modem.pool - DEBUG - Found port: COM4 - Standard Serial over Bluetooth link (COM4)
+2025-03-29 07:44:01,962 - modem.pool - DEBUG - Found port: COM19 - USB Serial Device (COM19)
+2025-03-29 07:44:01,962 - modem.pool - DEBUG - Found port: COM20 - USB Serial Device (COM20)
+2025-03-29 07:44:01,962 - modem.pool - DEBUG - Found port: COM13 - USB Serial Device (COM13)
+2025-03-29 07:44:01,962 - modem.pool - DEBUG - Found port: COM16 - USB Serial Device (COM16)
+2025-03-29 07:44:01,962 - modem.pool - DEBUG - Found port: COM9 - USB Serial Device (COM9)
+2025-03-29 07:44:01,962 - modem.pool - DEBUG - Found port: COM14 - USB Serial Device (COM14)
+2025-03-29 07:44:01,962 - modem.pool - INFO - Detected 16 modem(s)
+2025-03-29 07:44:01,962 - modem.COM6 - INFO - Connected to COM6
+2025-03-29 07:44:01,962 - modem.COM8 - INFO - Connected to COM8
+2025-03-29 07:44:01,971 - modem.COM11 - INFO - Connected to COM11
+2025-03-29 07:44:01,971 - modem.COM12 - INFO - Connected to COM12
+2025-03-29 07:44:01,971 - modem.COM5 - INFO - Connected to COM5
+2025-03-29 07:44:01,979 - modem.COM7 - INFO - Connected to COM7
+2025-03-29 07:44:01,982 - modem.COM17 - INFO - Connected to COM17
+2025-03-29 07:44:01,982 - modem.COM10 - INFO - Connected to COM10
+2025-03-29 07:44:01,982 - modem.COM18 - INFO - Connected to COM18
+2025-03-29 07:44:01,982 - modem.COM15 - INFO - Connected to COM15
+2025-03-29 07:44:01,995 - modem.COM19 - INFO - Connected to COM19
+2025-03-29 07:44:02,002 - modem.COM20 - INFO - Connected to COM20
+2025-03-29 07:44:02,012 - modem.COM13 - INFO - Connected to COM13
+2025-03-29 07:44:02,019 - modem.COM16 - INFO - Connected to COM16
+2025-03-29 07:44:02,019 - modem.COM9 - INFO - Connected to COM9
+2025-03-29 07:44:02,032 - modem.COM14 - INFO - Connected to COM14
+2025-03-29 07:44:09,523 - modem.COM6 - INFO - Disconnected from COM6
+2025-03-29 07:44:09,527 - modem.COM8 - INFO - Disconnected from COM8
+2025-03-29 07:44:09,566 - modem.COM11 - INFO - Disconnected from COM11
+2025-03-29 07:44:09,574 - modem.COM12 - INFO - Disconnected from COM12
+2025-03-29 07:44:09,578 - modem.COM5 - INFO - Disconnected from COM5
+2025-03-29 07:44:09,584 - modem.COM7 - INFO - Disconnected from COM7
+2025-03-29 07:44:09,590 - modem.COM17 - INFO - Disconnected from COM17
+2025-03-29 07:44:09,595 - modem.COM10 - INFO - Disconnected from COM10
+2025-03-29 07:44:09,597 - modem.COM18 - INFO - Disconnected from COM18
+2025-03-29 07:44:09,606 - modem.COM15 - INFO - Disconnected from COM15
+2025-03-29 07:44:09,610 - modem.COM19 - INFO - Disconnected from COM19
+2025-03-29 07:44:09,613 - modem.COM20 - INFO - Disconnected from COM20
+2025-03-29 07:44:09,619 - modem.COM13 - INFO - Disconnected from COM13
+2025-03-29 07:44:09,622 - modem.COM16 - INFO - Disconnected from COM16
+2025-03-29 07:44:09,631 - modem.COM9 - INFO - Disconnected from COM9
+2025-03-29 07:44:09,633 - modem.COM14 - INFO - Disconnected from COM14
+2025-03-29 07:44:25,386 - modem.pool - INFO - Detecting modems...
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM6 - USB Serial Device (COM6)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM8 - USB Serial Device (COM8)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM11 - USB Serial Device (COM11)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM12 - USB Serial Device (COM12)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM5 - USB Serial Device (COM5)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM7 - USB Serial Device (COM7)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM17 - USB Serial Device (COM17)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM10 - USB Serial Device (COM10)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM18 - USB Serial Device (COM18)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM15 - USB Serial Device (COM15)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM3 - Standard Serial over Bluetooth link (COM3)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM4 - Standard Serial over Bluetooth link (COM4)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM19 - USB Serial Device (COM19)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM20 - USB Serial Device (COM20)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM13 - USB Serial Device (COM13)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM16 - USB Serial Device (COM16)
+2025-03-29 07:44:25,409 - modem.pool - DEBUG - Found port: COM9 - USB Serial Device (COM9)
+2025-03-29 07:44:25,417 - modem.pool - DEBUG - Found port: COM14 - USB Serial Device (COM14)
+2025-03-29 07:44:25,417 - modem.pool - INFO - Detected 16 modem(s)
+2025-03-29 07:44:25,417 - modem.COM6 - INFO - Connected to COM6
+2025-03-29 07:44:25,438 - modem.COM8 - INFO - Connected to COM8
+2025-03-29 07:44:25,439 - modem.COM11 - INFO - Connected to COM11
+2025-03-29 07:44:25,454 - modem.COM12 - INFO - Connected to COM12
+2025-03-29 07:44:25,455 - modem.COM5 - INFO - Connected to COM5
+2025-03-29 07:44:25,465 - modem.COM7 - INFO - Connected to COM7
+2025-03-29 07:44:25,469 - modem.COM17 - INFO - Connected to COM17
+2025-03-29 07:44:25,473 - modem.COM10 - INFO - Connected to COM10
+2025-03-29 07:44:25,481 - modem.COM18 - INFO - Connected to COM18
+2025-03-29 07:44:25,484 - modem.COM15 - INFO - Connected to COM15
+2025-03-29 07:44:25,493 - modem.COM19 - INFO - Connected to COM19
+2025-03-29 07:44:25,509 - modem.COM20 - INFO - Connected to COM20
+2025-03-29 07:44:25,538 - modem.COM13 - INFO - Connected to COM13
+2025-03-29 07:44:25,559 - modem.COM16 - INFO - Connected to COM16
+2025-03-29 07:44:25,577 - modem.COM9 - INFO - Connected to COM9
+2025-03-29 07:44:25,590 - modem.COM14 - INFO - Connected to COM14
+2025-03-29 07:44:32,753 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:34,762 - modem.COM6 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 07:44:34,762 - modem.COM8 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:36,770 - modem.COM8 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704913942"
+
+OK
+
+2025-03-29 07:44:36,772 - modem.COM11 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:38,784 - modem.COM11 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484373"
+
+OK
+
+2025-03-29 07:44:38,787 - modem.COM12 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:40,800 - modem.COM12 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704905435"
+
+OK
+
+2025-03-29 07:44:40,800 - modem.COM5 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:42,811 - modem.COM5 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704458682"
+
+OK
+
+2025-03-29 07:44:42,812 - modem.COM7 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:44,821 - modem.COM7 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909577"
+
+OK
+
+2025-03-29 07:44:44,821 - modem.COM17 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:46,830 - modem.COM17 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484399"
+
+OK
+
+2025-03-29 07:44:46,832 - modem.COM10 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:48,842 - modem.COM10 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704483946"
+
+OK
+
+2025-03-29 07:44:48,842 - modem.COM18 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:50,848 - modem.COM18 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484118"
+
+OK
+
+2025-03-29 07:44:50,848 - modem.COM15 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:52,854 - modem.COM15 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704484266"
+
+OK
+
+2025-03-29 07:44:52,854 - modem.COM19 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:54,864 - modem.COM19 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704909650"
+
+OK
+
+2025-03-29 07:44:54,864 - modem.COM20 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:56,920 - modem.COM20 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914247"
+
+OK
+
+2025-03-29 07:44:56,922 - modem.COM13 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:44:58,928 - modem.COM13 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704450192"
+
+OK
+
+2025-03-29 07:44:58,928 - modem.COM16 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:45:00,942 - modem.COM16 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704908934"
+
+OK
+
+2025-03-29 07:45:00,942 - modem.COM9 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:45:02,956 - modem.COM9 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704905823"
+
+OK
+
+2025-03-29 07:45:02,956 - modem.COM14 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:45:04,970 - modem.COM14 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704456330"
+
+OK
+
+2025-03-29 07:45:28,216 - modem.COM6 - DEBUG - Sending command: AT+CNUM
+2025-03-29 07:45:31,228 - modem.COM6 - DEBUG - Raw response: AT+CNUM
+
+OK
+
+2025-03-29 07:45:31,228 - modem.COM6 - DEBUG - Sending command: AT+CUSD=1,"*185#",15
+2025-03-29 07:45:37,232 - modem.COM6 - DEBUG - Raw response: AT+CUSD=1,"*185#",15
+
++CUSD: 1,"Good Morning,  Your number 085720464843, Balance Rp.0 Active 17-06-2025 
+Need assistance?
+1 Account
+2 Content
+3 IMPoin
+4 Help
+5 IMEI
+6 DND
+7 Chat Us
+8 Kuota Kita
+",15
+
+OK
+
+2025-03-29 07:45:44,175 - modem.COM6 - DEBUG - Sending command: AT+CSQ
+2025-03-29 07:45:46,180 - modem.COM6 - DEBUG - Raw response: AT+CSQ
+
++CSQ: 22,0
+
+OK
+
+2025-03-29 07:45:46,180 - modem.COM6 - DEBUG - Sending command: AT+GSN
+2025-03-29 07:45:48,184 - modem.COM6 - DEBUG - Raw response: AT+GSN
+012345678912345
+
+OK
+
+
+2025-03-29 07:45:48,184 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:45:50,202 - modem.COM6 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 07:51:28,330 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:51:30,350 - modem.COM6 - DEBUG - Raw response: 
++CUSD: 4
+
++MREG: 0,0
+
++MREG: 0,1
+AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+
+2025-03-29 07:51:38,047 - modem.COM6 - DEBUG - Sending command: AT+CCID
+2025-03-29 07:51:40,072 - modem.COM6 - DEBUG - Raw response: AT+CCID
+
++CCID: "89620100001704914270"
+
+OK
+

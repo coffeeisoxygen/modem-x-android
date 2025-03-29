@@ -104,8 +104,29 @@ class SerialPort:
         return self.parse_response(response)
 
     def get_number(self):
-        # Directly use the USSD command to retrieve the number
+        # Try the fastest method first: CNUM command
+        response = self.send_command("AT+CNUM", timeout=2)
+        if response and "+CNUM:" in response:
+            match = re.search(r'\+CNUM:.*?".*?".*?"(\d+)"', response)
+            if match:
+                return match.group(1)
+
+        # If CNUM fails, try USSD command
         response = self.send_command('AT+CUSD=1,"*185#",15', timeout=5)
+
+        # Try to extract with more specific pattern for Indosat responses
+        if response:
+            # Look for phone number in the typical format from the response
+            match = re.search(r"Your number (\d+)", response)
+            if match:
+                return match.group(1)
+
+            # More generic pattern if the above doesn't match
+            match = re.search(r'CUSD:[^"]*"[^"]*(\d{10,13})[^"]*"', response)
+            if match:
+                return match.group(1)
+
+        # Fall back to general parser as last resort
         return self.parse_response(response)
 
     def get_response_history(self):

@@ -91,3 +91,49 @@ async def execute_command(port: str, command: str):
     parsed = modem.parse_response(response)
 
     return {"command": command, "raw_response": response, "parsed_response": parsed}
+
+
+@router.post("/check-all-iccid", tags=["modems"])
+async def check_all_iccid():
+    """Get ICCID for all connected modems"""
+    results = {}
+    for modem in modem_pool.modems:
+        if modem.connection:
+            results[modem.port] = modem.get_iccid()
+        else:
+            results[modem.port] = "Not connected"
+    return {"iccids": results}
+
+
+@router.post("/check-all-numbers", tags=["modems"])
+async def check_all_numbers():
+    """Get phone numbers for all connected modems"""
+    results = {}
+    for modem in modem_pool.modems:
+        if modem.connection:
+            results[modem.port] = modem.get_number()
+        else:
+            results[modem.port] = "Not connected"
+    return {"numbers": results}
+
+
+@router.get("/{port}/number", tags=["modems"])
+async def get_modem_number(port: str):
+    # Find the modem with the specified port
+    modem = next((m for m in modem_pool.modems if m.port == port), None)
+    if not modem:
+        raise HTTPException(status_code=404, detail="Modem not found")
+
+    number = modem.get_number() if modem.connection else "Not connected"
+    return {"port": port, "number": number}
+
+
+@router.get("/{port}/iccid", tags=["modems"])
+async def get_modem_iccid(port: str):
+    # Find the modem with the specified port
+    modem = next((m for m in modem_pool.modems if m.port == port), None)
+    if not modem:
+        raise HTTPException(status_code=404, detail="Modem not found")
+
+    iccid = modem.get_iccid() if modem.connection else "Not connected"
+    return {"port": port, "iccid": iccid}

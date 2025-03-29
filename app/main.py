@@ -46,18 +46,14 @@ async def shutdown_event():
 
 @app.get("/", response_class=HTMLResponse)
 async def root(request: Request):
-    # Prepare modem data for template
+    # Prepare basic modem data for template - no slow operations
     modem_data = []
     for modem in modem_pool.modems:
-        # Get ICCID and number for display
-        iccid = modem.get_iccid() if modem.connection else "Not connected"
-        number = modem.get_number() if modem.connection else "Not connected"
-
         modem_data.append(
             {
                 "port": modem.port,
-                "iccid": iccid,
-                "number": number,
+                "iccid": "Click to check",
+                "number": "Click to check",
                 "status": "Connected" if modem.connection else "Disconnected",
                 "responses": modem.get_response_history(),
             }
